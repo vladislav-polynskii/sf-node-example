@@ -25,11 +25,11 @@ These instructions will get you a copy of the project up and running on your loc
 To install and set up the library, run:
 
 ```sh
-$ npm install node_example_sf_vladp
+$ npm install node_example_sf_vlad
 ```
 
 Or if you prefer using Yarn:
 
 ```sh
-$ yarn add --dev node_example_sf_vladp
+$ yarn add --dev node_example_sf_vlad
 ```
