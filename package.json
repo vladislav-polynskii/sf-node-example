@@ -1,0 +1,22 @@
+{
+  "name": "node_example_sf_vladp",
+  "version": "1.0.0",
+  "description": "example for skillfactory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladislav-polynskii/sf-node-example.git"
+  },
+  "author": "Vladislav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladislav-polynskii/sf-node-example/issues"
+  },
+  "homepage": "https://github.com/vladislav-polynskii/sf-node-example#readme",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
